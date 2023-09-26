@@ -21,3 +21,4 @@ jobs:
           java-version: '17'
 
       - run: java --version
+      - run: javac helloworld
